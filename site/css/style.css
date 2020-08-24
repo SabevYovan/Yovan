@@ -1,7 +1,20 @@
-.row {
-  margin-bottom: 15px;
+  
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
 }
-.row > div {
-  border: 2px solid red;
-  background-color: gray;
+
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img{
+  background-image: url('..site\download.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
 }
