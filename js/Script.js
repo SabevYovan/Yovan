@@ -1,1 +1,1 @@
-s
+var x = "Hello World"
